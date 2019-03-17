@@ -1,4 +1,4 @@
-# Python Modules, Packages, and Environments
+# Python Modules, Packages, and Environments 
 
 Places for your code (and dependencies) to live.
 
